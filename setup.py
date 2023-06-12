@@ -18,5 +18,5 @@ setuptools.setup(
     classifiers = [
         'Prueba de libreria',
         ],
-    include_package_data=TR,
+    include_package_data=True,
 )
