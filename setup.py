@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_contenr_type='text/markdown',
     author = 'Carlos',
     author_email = 'juancarlosemp600a@gmail.com',
-    url = 'https://github.com/Carlos676/saludo',
+    url = 'https://github.com/Carlos676/saludo.git',
     license = 'MIT',    
     classifiers = [
         'Prueba de libreria',
